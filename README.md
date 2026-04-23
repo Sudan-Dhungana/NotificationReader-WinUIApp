@@ -2,7 +2,7 @@
 NotificationReader is a lightweight desktop application designed to help you manage and review system notifications with ease. Built with WinUI 3 and the latest Windows App SDK, it offers a fast, fluid interface that integrates seamlessly with Windows 10 and 11.
 
 [Image ShowCase]:
-https://github.com/user-attachments/assets/97a927a7-f9ff-48a5-8d1b-4cf9ce4d9005
+![NotificationReader Screenshot](/notificationreader.png)
 
 Key Features:
 
