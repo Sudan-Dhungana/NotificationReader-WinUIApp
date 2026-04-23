@@ -3,7 +3,7 @@ NotificationReader is a lightweight desktop application designed to help you man
 
 # Image ShowCase
 
-[![NotificationReader Screenshot](/NotificationReaderAppInterface.jpg)
+<img src="NotificationReaderAppInterface.jpg" alt="NotificationReader Screenshot" width="auto" height= "200"  />
 
 Key Features:
 
