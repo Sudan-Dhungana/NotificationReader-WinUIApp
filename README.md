@@ -12,8 +12,8 @@
 ## 📸 Interface Showcase
 
 <p align="left">
-  <img src="NotificationReaderAppInterface.jpg" alt="Notification Reader Main Interface" width="300" />
-  <img src="NotificationAppInteface1.jpg" alt="Notification Reader Interface View 1" width="200" />
+  <img src="NotificationReaderAppInterface.jpg" alt="Notification Reader Main Interface" width="300" height="200" />
+  <img src="NotificationAppInteface1.jpg" alt="Notification Reader Interface View 1" width="300" height="200" />
 </p>
 
 <details>
