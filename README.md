@@ -13,16 +13,14 @@
 
 <p align="left">
   <img src="NotificationReaderAppInterface.jpg" alt="Notification Reader Main Interface" width="300" />
+  <img src="NotificationAppInteface1.jpg" alt="Notification Reader Interface View 1" width="200" />
 </p>
 
 <details>
   <summary><b>View Additional Screenshots</b></summary>
   <br />
   <p align="left">
-    <img src="NotificationAppInteface1.jpg" alt="Notification Reader Interface View 1" width="200" />
     <img src="NotificationAppInteface2.jpg" alt="Notification Reader Interface View 2" width="200" />
-  </p>
-  <p align="left">
     <img src="NotificationAppInteface3.jpg" alt="Notification Reader Interface View 3" width="200" />
     <img src="NotificationAppInteface4.jpg" alt="Notification Reader Interface View 4" width="200" />
   </p>
