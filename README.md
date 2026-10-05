@@ -11,7 +11,7 @@
 
 ## 📸 Interface Showcase
 
-<p align="center">
+<p align="left">
   <img src="NotificationReaderAppInterface.jpg" alt="Notification Reader Main Interface" width="500" />
 </p>
 
