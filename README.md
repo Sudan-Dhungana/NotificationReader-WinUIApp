@@ -4,10 +4,10 @@ NotificationReader is a lightweight desktop application designed to help you man
 ## Image Showcase
 
 <img src="NotificationReaderAppInterface.jpg" alt="NotificationReader Screenshot" width="auto" height= "500"  />
-<img src="NotificationReaderAppInteface1.jpg" alt="NotificationReader Screenshot" width="auto" height= "500"  />
-<img src="NotificationReaderAppInteface2.jpg" alt="NotificationReader Screenshot" width="auto" height= "500"  />
-<img src="NotificationReaderAppInteface3.jpg" alt="NotificationReader Screenshot" width="auto" height= "500"  />
-<img src="NotificationReaderAppInteface4.jpg" alt="NotificationReader Screenshot" width="auto" height= "500"  />
+<img src="NotificationAppInteface1.jpg" alt="NotificationReader Screenshot" width="auto" height= "500"  />
+<img src="NotificationAppInteface2.jpg" alt="NotificationReader Screenshot" width="auto" height= "500"  />
+<img src="NotificationAppInteface3.jpg" alt="NotificationReader Screenshot" width="auto" height= "500"  />
+<img src="NotificationAppInteface4.jpg" alt="NotificationReader Screenshot" width="auto" height= "500"  />
 
 # Key Features:
 
