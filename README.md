@@ -5,7 +5,7 @@
 [![SDK](https://img.shields.io/badge/Windows%20App%20SDK-1.4%2B-0078D4)](https://learn.microsoft.com/windows/apps/windows-app-sdk/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**NotificationReader** is a lightweight, modern desktop application built for Windows 10 and 11. It captures, organizes, and reads aloud incoming system notifications in real time—helping you stay informed without breaking your focus or workflow.
+**NotificationReader** is a lightweight, modern desktop application built for Windows 10 and 11. It captures, organizes, and reads aloud incoming system notifications in real time—helping you stay informed without breaking your focus or workflow. Make sure to download the app from Release Page.
 
 ---
 
