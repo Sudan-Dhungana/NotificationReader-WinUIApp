@@ -12,19 +12,19 @@
 ## 📸 Interface Showcase
 
 <p align="left">
-  <img src="NotificationReaderAppInterface.jpg" alt="Notification Reader Main Interface" width="500" />
+  <img src="NotificationReaderAppInterface.jpg" alt="Notification Reader Main Interface" width="300" />
 </p>
 
 <details>
   <summary><b>View Additional Screenshots</b></summary>
   <br />
-  <p align="center">
-    <img src="NotificationAppInteface1.jpg" alt="Notification Reader Interface View 1" width="400" />
-    <img src="NotificationAppInteface2.jpg" alt="Notification Reader Interface View 2" width="400" />
+  <p align="left">
+    <img src="NotificationAppInteface1.jpg" alt="Notification Reader Interface View 1" width="200" />
+    <img src="NotificationAppInteface2.jpg" alt="Notification Reader Interface View 2" width="200" />
   </p>
-  <p align="center">
-    <img src="NotificationAppInteface3.jpg" alt="Notification Reader Interface View 3" width="400" />
-    <img src="NotificationAppInteface4.jpg" alt="Notification Reader Interface View 4" width="400" />
+  <p align="left">
+    <img src="NotificationAppInteface3.jpg" alt="Notification Reader Interface View 3" width="200" />
+    <img src="NotificationAppInteface4.jpg" alt="Notification Reader Interface View 4" width="200" />
   </p>
 </details>
 
