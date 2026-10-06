@@ -57,7 +57,7 @@
 
 1. Download the latest release package from the **[Releases](../../releases)** section.
 2. Unpack the `.zip` file into your desired directory.
-3. Run `NotificationReader.exe`.
+3. Install certificate & Run `NotificationReader.exe`. 
 
 ---
 
