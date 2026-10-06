@@ -12,16 +12,16 @@
 ## 📸 Interface Showcase
 
 <p align="left">
-  <img src="NotificationReaderAppInterface.jpg" alt="Notification Reader Main Interface" width="300" height="400" />
-  <img src="NotificationAppInteface1.jpg" alt="Notification Reader Interface View 1" width="300" height="400" />
+  <img width="1012" height="567" alt="image" src="https://github.com/user-attachments/assets/9b76621d-6f3a-4323-b379-37bd89912c15" />
+  <img width="1022" height="570" alt="image" src="https://github.com/user-attachments/assets/c3bb0558-f652-4276-a246-e66d73bb1585" />
 </p>
 
 <details>
   <summary><b>View Additional Screenshots</b></summary>
   <br />
   <p align="left">
-    <img src="NotificationAppInteface3.jpg" alt="Notification Reader Interface View 3" width="200" />
-    <img src="NotificationAppInteface4.jpg" alt="Notification Reader Interface View 4" width="200" />
+    <img width="1019" height="572" alt="image" src="https://github.com/user-attachments/assets/18270688-4d0c-45d1-9df2-3d305294635c" />
+    <img width="1026" height="578" alt="image" src="https://github.com/user-attachments/assets/1f9437fa-c6cf-4a47-831f-fba6249d8a33" />
   </p>
 </details>
 
@@ -66,18 +66,6 @@
 * **UI Framework:** WinUI 3 (Windows App SDK)
 * **Language:** C# / .NET
 * **Platform APIs:** `Windows.UI.Notifications`, `Windows.Media.SpeechSynthesis`
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve NotificationReader:
-
-1. Fork the project repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
 
 ---
 
