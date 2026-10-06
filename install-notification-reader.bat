@@ -2,8 +2,8 @@
 setlocal
 
 REM === Configurable filenames ===
-set CERTFILE=NotificationReader.cer
-set APPFILE=NotificationReader_1.0.4.0_x64.msix
+set CERTFILE=NotificationReader_1.0.8.0_x64.cer
+set APPFILE=NotificationReader_1.0.8.0_x64.msix
 
 echo Checking for certificate in Trusted People store...
 
